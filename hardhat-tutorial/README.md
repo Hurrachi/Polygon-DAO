@@ -1,0 +1,5 @@
+Fake MarketPlace Deployed to:
+0xadb66347b1e77ae3F6cf5F92c03F840427A73Ad0
+
+MoneyBunniesDAO Deployed to:
+0x767c57D01AD0c5DcFb353E2a7da5c631ed9Ea711
